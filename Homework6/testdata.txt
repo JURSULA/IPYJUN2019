@@ -1,3 +1,0 @@
-This a test file to count number of characters, words and lines in a file.
-This is to test words.
-This is to test words.

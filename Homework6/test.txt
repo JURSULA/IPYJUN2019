@@ -1,1 +1,0 @@
-This is the program created in the morning to explore files operation in python.
